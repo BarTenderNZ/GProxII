@@ -12,7 +12,6 @@ Block 0 either
  - 00150060 (most common)
  - F0150060 (seen on NZ tags)
 
-```
 [=] --- T55x7 Configuration & Information ---------
 [=]  Safer key                 : 0 (or 15 if block 0 = F0150060)
 [=]  reserved                  : 0
@@ -33,7 +32,6 @@ Block 0 either
 [=]  00150060
 [=] --- Fingerprint ------------
 [+] Config block match        : Guard Prox II
-```
 
 - 12 bytes / 96 bit raw key stored in blocks 1/2/3
 
